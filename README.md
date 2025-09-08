@@ -39,13 +39,14 @@
 
 ## 🛠️ Architectural Stack
 
-Layer Technology Purpose
-Frontend Framework React 16.13+ Component-based UI architecture
-Data Visualization Recharts 1.6.2+ Enterprise-grade charting library
-Animation Engine React Spring 9.0+ Physics-based animations
-Styling Solution Pure CSS3 Custom design system with CSS variables
-Build System ES6 Modules Modern JavaScript module system
-Typography Be Vietnam Pro Professional typeface for dashboards
+| Layer | Technology | Purpose |
+|-------|------------|---------|
+| **Frontend Framework** | React 16.13+ | Component-based UI architecture |
+| **Data Visualization** | Recharts 1.6.2+ | Enterprise-grade charting library |
+| **Animation Engine** | React Spring 9.0+ | Physics-based animations |
+| **Styling Solution** | Pure CSS3 | Custom design system with CSS variables |
+| **Build System** | ES6 Modules | Modern JavaScript module system |
+| **Typography** | Be Vietnam Pro | Professional typeface for dashboards |
 
 ---
 
