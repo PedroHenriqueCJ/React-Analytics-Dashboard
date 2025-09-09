@@ -24,9 +24,9 @@
 
 ### 🎨 Enterprise UI/UX Excellence
 
-## 🎨 UI/UX Process
 
-### 1. Rascunho (Wireframe Inicial)
+
+#### 1. Wireframe
 <p align="center">
   <img width="1536" height="1024" alt="Wireframe inicial" src="https://github.com/user-attachments/assets/c9baf4d6-928a-4d8b-a9d3-ce98f73d9f2a" />
   <br/>
