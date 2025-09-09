@@ -5,11 +5,13 @@
 >Enterprise-Grade React Dashboard - A sophisticated business intelligence platform delivering real-time analytics, comprehensive data visualization, and actionable insights through an immersive, professional interface designed for executive decision-making and operational monitoring.
 
 <p align="center">
-  <img width="1521" height="673" alt="Image" src="https://github.com/user-attachments/assets/d62990ec-c7ff-4450-a5f7-a7bd5f1e07c0" />
+
+<img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/c9baf4d6-928a-4d8b-a9d3-ce98f73d9f2a" />
+
+<img width="1521" height="673" alt="Image" src="https://github.com/user-attachments/assets/d62990ec-c7ff-4450-a5f7-a7bd5f1e07c0" />
   <br/>
   <em>Professional analytics interface with real-time data visualization and executive insights</em>
 
-<img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/c9baf4d6-928a-4d8b-a9d3-ce98f73d9f2a" />
 </p>
 ---
 
